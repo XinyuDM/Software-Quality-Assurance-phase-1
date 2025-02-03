@@ -1,0 +1,17 @@
+00023_Daniel_Anderson     _A_0150075
+00045_Sarah_Connor        _A_0234000
+00067_John_Smith          _A_0105000
+00089_Emily_Johnson       _A_0080000
+00012_Michael_Brown       _A_0123000
+00034_Linda_Williams      _A_0075000
+00056_Robert_Davis        _A_0090000
+00078_Patricia_Miller     _A_0056000
+00090_William_Garcia      _A_0112000
+00011_Barbara_Rodriguez   _A_0100000
+00022_Kevin_Jones         _A_0065000
+00033_Laura_Martin        _A_0047000
+00044_Steven_Hall         _A_0088000
+00055_Nancy_White         _A_0077000
+00066_Paul_Young          _A_0055000
+00077_Lisa_Adams          _A_0060000
+00000_END_OF_FILE_________ _ 00000000
